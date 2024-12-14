@@ -10,7 +10,7 @@ Poder demostrar y aprender la creacion y consumo de Interfaces de Programacion d
 | No. | Descripción                               |Estatus|
 | --- | ------------------------------------------|------|
 | Act01 |Cargar el código base de la Aplicación de BienesRaíces en un Nuevo Repositorio Privado| ✅ Finalizada |
-| Act02 |Implementar su paleta de colores, tipografías , y diseño de componentes.| 🖥️ Pendiente |  
+| Act02 |Implementar su paleta de colores, tipografías , y diseño de componentes.| ✅ Finalizada |  
 | Act03 | Agregar la Categoría "Establecimientos" para poder rentar o vender espacios para negocios.| 🖥️ Pendiente |
 | Act04 |Cambiar la posición inicial del mapa a su LAT y LNG de su CASA (estudiante).| 🖥️ Pendiente  |
 | Act05 |Agrega la funcionalidad de guardar una imagen de perfil al momento de crear su cuenta , también incluir la validación de cuentas para mayores de edad.| 🖥️ Pendiente  |
