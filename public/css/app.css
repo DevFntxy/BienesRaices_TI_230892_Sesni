@@ -527,17 +527,11 @@ video {
 .relative {
   position: relative;
 }
-.left-24 {
-  left: 6rem;
-}
 .left-3 {
   left: 0.75rem;
 }
 .top-3 {
   top: 0.75rem;
-}
-.top-8 {
-  top: 2rem;
 }
 .z-0 {
   z-index: 0;
@@ -625,9 +619,6 @@ video {
 }
 .min-h-screen {
   min-height: 100vh;
-}
-.w-14 {
-  width: 3.5rem;
 }
 .w-24 {
   width: 6rem;
@@ -747,9 +738,6 @@ video {
 }
 .rounded {
   border-radius: 0.25rem;
-}
-.rounded-full {
-  border-radius: 9999px;
 }
 .rounded-lg {
   border-radius: 0.5rem;
